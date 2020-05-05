@@ -20,10 +20,8 @@ dependencies:
   flutter:
     sdk: flutter
   rxdart: ^0.24.0
-  shared_preferences: ^0.5.7
   carousel_slider: ^2.0.0
   html: ^0.14.0+3
-  http: ^0.12.1
   cached_network_image: ^2.1.0+1
   flutter_bloc: ^4.0.0
   equatable: ^1.1.1
